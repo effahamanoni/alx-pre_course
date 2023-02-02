@@ -1,1 +1,1 @@
-My first readme
+Nana Effah is a Sofware Engeneer
